@@ -6,12 +6,12 @@ html, body
 
 body
 {
-background-image: grey(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+background-image: light-gradiant(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
 }
 
 .header
 {
-	color: black;font-family: 'Yeon Sung';font-size: 55px;letter-spacing: 15px;margin-top: 85px;
+	color: black;font-family: 'Mochiy Pop P One';font-size: 55px;letter-spacing: 15px;margin-top: 85px;
 }
 .header img
 {
